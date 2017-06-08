@@ -1,0 +1,17 @@
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <group >
+    <item android:id="@+id/most_popular"
+        android:title="@string/option_popular"
+        app:showAsAction="never"/>
+    <item android:id="@+id/top_rated"
+    android:title="@string/option_top_rated"
+    app:showAsAction="never"/>
+    <item android:id="@+id/favorite"
+        android:title="@string/option_favorite"
+        app:showAsAction="never"/>
+    </group>
+</menu>
+
+
