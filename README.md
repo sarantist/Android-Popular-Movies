@@ -1,7 +1,7 @@
 # Popular Moviez 
 
 This is a native android application made from scratch for the Associate Android Developer Fast Track program.
-The application will have 2 stages, this is stage 1. In the current stage you can discover the most popular or highest rated movies.
+The application allows the user to discover the most popular or highest rated movies and add movies as favorites.
 
 # How to use
 
